@@ -1,4 +1,5 @@
-/dialogue-summary-training-full
+/full-dialogue-summary-training
+/peft-dialogue-summary-training
 /.ipynb_checkpoints
 /llmtraining
 /.idea
